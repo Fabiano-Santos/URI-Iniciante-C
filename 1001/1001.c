@@ -11,7 +11,7 @@ int main(){
 
    X = A + B;
 
-   printf("X = %d\n", X);
+   printf("X = %d\n\r", X);
 
 
 
